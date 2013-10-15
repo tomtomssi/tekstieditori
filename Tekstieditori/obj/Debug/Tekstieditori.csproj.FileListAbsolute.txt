@@ -1,0 +1,10 @@
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\bin\Debug\Tekstieditori.exe.config
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\bin\Debug\Tekstieditori.exe
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\bin\Debug\Tekstieditori.pdb
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\obj\Debug\Tekstieditori.csprojResolveAssemblyReference.cache
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\obj\Debug\Tekstieditori.Form1.resources
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\obj\Debug\Tekstieditori.Properties.Resources.resources
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\obj\Debug\Tekstieditori.csproj.GenerateResource.Cache
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\obj\Debug\Tekstieditori.exe
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\obj\Debug\Tekstieditori.pdb
+c:\users\tatu\documents\visual studio 2012\Projects\Tekstieditori\Tekstieditori\obj\Debug\Tekstieditori.about.resources
